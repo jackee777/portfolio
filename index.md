@@ -23,10 +23,11 @@ layout: default
 - 山崎禎晃，豊田哲也，大原剛三：概念階層を用いた単語分散表現の多義性評価用データセットの提案，Workshop of Social System and InformationTechnology 2019，知識ベースシステム研究会 / 人工知能学会，2019/03/07
 
 # Account
-- **github** https://github.com/jackee777
-- **slideshare** https://www.slideshare.net/ssuser735165
-- **AtCoder** https://atcoder.jp/users/jackee777
-- **twitter** https://twitter.com/jackee7771
+- [github](https://github.com/jackee777)
+- [slideshare](https://www.slideshare.net/ssuser735165)
+- [AtCoder](https://atcoder.jp/users/jackee777)
+- [twitter](https://twitter.com/jackee7771)
+- [hatenablog](https://jackee777.hatenablog.com/)
 
 
 # 表彰
@@ -37,8 +38,9 @@ layout: default
 
 # 学歴
 かなり特殊なのであげておきます．
-- 2011/07 桐光学園高等学校中退（病気で不登校気味だったため）
+- 2011/07 桐光学園高等学校中退（高1から病気で不登校気味だったため）
 - 2011/11 高卒認定取得
+（浪人時代は勉強もせずほぼニートでした．高1までの貯金で以下の大学に合格しました．）
 - 2014/04 青山学院大学理工学部情報テクノロジー学科入学
 （中略）
 - 2020/03 青山学院大学大学院理工学研究科理工学専攻知能情報コース　博士前期課程卒業予定
