@@ -1,6 +1,4 @@
 ---
 layout: default
 ---
-<body>
-what??
-</body>
+woww
