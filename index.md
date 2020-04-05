@@ -29,6 +29,10 @@ layout: default
 - [twitter](https://twitter.com/jackee7771)
 - [hatenablog](https://jackee777.hatenablog.com/)
 
+# 便利なコード
+研究の副産物として，分散表現と概念階層周りをメンテナンスすることが多いです．
+- [VerbNet](https://github.com/jackee777/verbnet_interface)
+- [BabelNet](https://github.com/jackee777/babelnetpy)
 
 # 表彰
 学内評価のみなので略称
