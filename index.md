@@ -22,7 +22,8 @@ layout: default
 - Tomoaki Yamazaki, Tetsuya Toyota, Kouzou Ohara：Constructing Dataset Based on Concept Hierarchy for Evaluating Word Vectors Learnedfrom Multisense Words，Pacific Rim Knowledge Acquisition Workshop，2019/08/22
 - 山崎禎晃，豊田哲也，大原剛三：概念階層を用いた単語分散表現の多義性評価用データセットの提案，Workshop of Social System and InformationTechnology 2019，知識ベースシステム研究会 / 人工知能学会，2019/03/07
 - 石井尚悟, 山崎禎晃, 伊東聖矢, 大原剛三：物体マッチングにより物体網羅性を向上した画像生成，人工知能学会全国大会，2022/06．
-- IWFCV 2023に投稿中
+- IWFCV 2023に階層画像分類の内容で投稿中
+
 空いている期間はグダっていたのもありますが，投稿して落ちているなどをしています．
 
 # Account
